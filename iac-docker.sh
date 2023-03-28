@@ -1,8 +1,5 @@
 !# /bin/bash
 
-echo "Entrar no modo superusuário"
-sudo su
-
 echo "Atualizando o servidor..."
 apt uptade -y
 apt upgrade -y
